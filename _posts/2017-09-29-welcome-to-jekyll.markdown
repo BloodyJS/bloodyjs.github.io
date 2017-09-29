@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to BloodyJS!"
+title:  "Welcome to bloodyJS!"
 date:   2017-09-29 15:56:11 +0100
 categories: miscellaneous
 ---
