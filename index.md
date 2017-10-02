@@ -4,3 +4,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+bloodyJS, a new bloody JS framework for the new bloody week.

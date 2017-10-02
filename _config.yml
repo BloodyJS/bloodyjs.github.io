@@ -16,9 +16,9 @@
 title: bloodyJS
 email: bloodyadmin@bloodyjs.com
 description: >- # this means to ignore newlines until "baseurl:"
-  bloodyJS is a JavaScript framework for making your life easier.
+  bloodyJS is a JavaScript framework for making your life bloody easier.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://bloodyjs.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bloodyjs
 github_username:  bloodyjs
 
